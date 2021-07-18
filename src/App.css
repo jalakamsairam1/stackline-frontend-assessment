@@ -1,0 +1,7 @@
+.sfa-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  height: 100vh;
+  background-color: #f5f7f9;
+}
