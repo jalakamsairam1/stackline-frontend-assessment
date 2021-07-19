@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/stackline-frontend-assessment/static/css/main.61eb9816.chunk.css",
+    "main.js": "/stackline-frontend-assessment/static/js/main.39c1e91e.chunk.js",
+    "main.js.map": "/stackline-frontend-assessment/static/js/main.39c1e91e.chunk.js.map",
+    "runtime-main.js": "/stackline-frontend-assessment/static/js/runtime-main.97dee826.js",
+    "runtime-main.js.map": "/stackline-frontend-assessment/static/js/runtime-main.97dee826.js.map",
+    "static/js/2.0be1ebb3.chunk.js": "/stackline-frontend-assessment/static/js/2.0be1ebb3.chunk.js",
+    "static/js/2.0be1ebb3.chunk.js.map": "/stackline-frontend-assessment/static/js/2.0be1ebb3.chunk.js.map",
+    "static/js/3.1aef81eb.chunk.js": "/stackline-frontend-assessment/static/js/3.1aef81eb.chunk.js",
+    "static/js/3.1aef81eb.chunk.js.map": "/stackline-frontend-assessment/static/js/3.1aef81eb.chunk.js.map",
+    "index.html": "/stackline-frontend-assessment/index.html",
+    "static/css/main.61eb9816.chunk.css.map": "/stackline-frontend-assessment/static/css/main.61eb9816.chunk.css.map",
+    "static/js/2.0be1ebb3.chunk.js.LICENSE.txt": "/stackline-frontend-assessment/static/js/2.0be1ebb3.chunk.js.LICENSE.txt",
+    "static/media/logo.d19ed00c.svg": "/stackline-frontend-assessment/static/media/logo.d19ed00c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97dee826.js",
+    "static/js/2.0be1ebb3.chunk.js",
+    "static/css/main.61eb9816.chunk.css",
+    "static/js/main.39c1e91e.chunk.js"
+  ]
+}
